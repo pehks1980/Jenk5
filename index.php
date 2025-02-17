@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations! Salutations! <br> <br> Devopse Hoochi Moochi Mama of yours</h1>
+        <h1>Congratulations! Аиньки-Баиньки! <br> <br> Devopse Hoochi Moochi Mama of yours</h1>
         <p>Your AWS Elastic Beanstalk on Qantuum Supremacy<em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
